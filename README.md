@@ -5,7 +5,9 @@
 1. Linguagem PHP 7
 
 ## Sobre 
-Formulário para inscrição de competidores(criação de serviços, funções e validações).
+1. Formulário com condicionais e sessões com PHP(Criar formulário com validações, mensagens de erro e boas práticas para otimização de código);
+1. Conhecer funções e validações de dados com o PHP;
+
 
 ## Curso
 Aulas realizadas na **"Digital Innovation One".** 
